@@ -1,6 +1,5 @@
 # superstrona286
 
 
-#.__,
-#↑
-#Saddam Hussein 
+.__,
+Saddam Hussein 
